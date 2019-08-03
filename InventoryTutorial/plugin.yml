@@ -1,0 +1,7 @@
+version: 0.1
+name: InvTUT
+main: Core.Main
+api-version: 1.13
+commands:
+    test:
+       description: Main command for guild plugin
